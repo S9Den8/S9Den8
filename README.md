@@ -53,7 +53,6 @@ Git | GitHub (project setup and version tracking)
 - Learn fundamental techniques in **data analysis** and **visualization** to translate information into insight.  
 - Collaborate with or assist **nonprofit organizations** by using data analytics to support evidence-based decisions and community impact.  
 - Continue documenting progress, reflections, and results on **GitHub** as part of an ongoing learning journey.
-- 
 ---
 
 ## About Me
