@@ -1,8 +1,8 @@
 **Hi, I’m S9Den8**
 
 *Solve et coagula*
-Alchemical maxim  
-Late Med.–Early Ren., c. 14th–16th cent.
+
+Alchemical maxim, late Med.–Early Ren., c. 14th–16th cent.
 
 ---
 
